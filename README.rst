@@ -10,8 +10,8 @@ pytest-arcpy
     :target: https://pypi.org/project/pytest-arcpy
     :alt: Python versions
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/jmitchellgreen/pytest-arcpy?branch=master
-    :target: https://ci.appveyor.com/project/jmitchellgreen/pytest-arcpy/branch/master
+.. image:: https://ci.appveyor.com/api/projects/status/github/jmitchellgreen/pytest-arcpy?branch=main
+    :target: https://ci.appveyor.com/project/jmitchellgreen/pytest-arcpy/branch/main
     :alt: See Build Status on AppVeyor
 
 A pytest plugin to test Environmental Systems Research Institute's (ESRI) python site package, ArcPy
