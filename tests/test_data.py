@@ -1,6 +1,3 @@
-import pytest
-
-
 class TestData:
     def test_exists(self, exists):
         assert exists == True
